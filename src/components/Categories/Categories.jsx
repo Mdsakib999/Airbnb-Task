@@ -44,6 +44,7 @@ const Categories = () => {
                 <span>1000$</span>
                 <span>5000$</span>
               </div>
+              
               <div className="modal-action">
                 <form method="dialog">
                   {/* if there is a button in form, it will close the modal */}
