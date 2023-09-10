@@ -62,7 +62,7 @@ const Navbar = () => {
           </div>
           </div>
 
-          <div>
+          {/* <div>
             {
               data.filter((items) => {
                 return searchItems.toLowerCase() == '' ? items : items.location.toLowerCase().includes(searchItems)
@@ -71,8 +71,7 @@ const Navbar = () => {
                 <h1 className='mt-24'>{items.location}</h1>
               })
             }
-          </div>
-
+          </div> */}
         </div>
 
         
